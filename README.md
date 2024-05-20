@@ -1,0 +1,2 @@
+2048 is a popular single-player sliding block puzzle game created by Italian web developer Gabriele Cirulli. The game is played on a 4×4 grid with numbered tiles that can be slid around using the arrow keys or swipe gestures. The objective is to combine tiles with the same number to create a tile with the number 2048, hence the name of the game.
+To play this game click here: https://nqtiba.github.io/2048-Game/
